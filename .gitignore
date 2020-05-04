@@ -1,5 +1,6 @@
-node_modules/**/*
+training-boilerplate/node_modules/**/*
 .expo/*
+training-boilerplate/.expo/*
 npm-debug.*
 *.jks
 *.p8
@@ -7,8 +8,8 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
-web-build/
-web-report/
+training-boilerplate/web-build/
+training-boilerplate/web-report/
 
 # macOS
 .DS_Store
